@@ -1,0 +1,29 @@
+.navbar-section{
+    max-width: 800px;
+    display: flex;
+    margin: 0px auto;
+    align-items: center;
+
+}
+
+.navbar-section .links{
+    margin-left: auto;
+}
+.navbar-section .branding h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-section .links a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+.navbar-section .links .create{
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+.navbar-section .links .create:hover{
+    background-color: black;
+}

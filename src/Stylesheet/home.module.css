@@ -1,0 +1,29 @@
+.home-section{
+    max-width: 800px;
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+}
+.blogs{
+    margin: 10px 0px;
+    width: 800px;
+}
+.blog-list{
+    border-bottom: 1px solid #fafafa;
+    padding: 10px 16px;
+    margin: 10px 0px;
+}
+.blog-list h2{
+    color: #f1356d;
+}
+.blog-list p,.blog-list h2{
+    padding: 0px;
+    margin: 0px;
+}
+.blog-list:hover{
+    box-shadow: 1px 3px 5px #f1356d;
+}
+.blog-link{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,19 @@
+.not-found{
+    max-width: 800px;
+    margin: 0px auto;
+}
+.not-found img{
+    width: 200px;
+    height: 200px;
+}
+.not-found h1{
+    color: #f1356d;
+    font-size: 80px;
+    margin: 0px;
+    padding: 0px;
+}
+.not-found p{
+    font-size: 30px;
+    margin: 10px 0px;
+    padding: 5px 0px;
+}
